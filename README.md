@@ -1,7 +1,7 @@
 ### Olá, me chamo Mateus Miranda!
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como Tecnico de Suporte de forma autônoma
+- 🔭 Atualmente estou trabalhando como Tecnico de Suporte de forma avulsa
 - 🌱 Estou cursando Analise e Desenvolvimento de Sistemas
 - 📫 Como entrar em contato comigo: mateusbm00@outlook.com
 - 😄 Pronomes: Ele/Dele
