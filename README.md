@@ -5,7 +5,7 @@
 - 🌱 Estou cursando Analise e Desenvolvimento de Sistemas
 - 📫 Como entrar em contato comigo: mateusbm00@outlook.com
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidades: Tenho 23 anos, moro em Salvador/BA, sou iniciante nesse mundo de programação, gosto bastante de games e uma boa musica eletronica.
+- ⚡ Curiosidades: Tenho 24 anos, moro em Salvador/BA, sou iniciante nesse mundo de programação, gosto bastante de games e uma boa musica eletronica.
 
 ## Ferramentas e Tecnologias
 
